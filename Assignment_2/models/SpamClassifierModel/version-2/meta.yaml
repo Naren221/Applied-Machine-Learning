@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1740669240652
+current_stage: None
+description: null
+last_updated_timestamp: 1740669240652
+name: SpamClassifierModel
+run_id: b8e832fdb09d4dd0a7fa704c263f4851
+run_link: null
+source: file:///c:/Users/naren/OneDrive/Documents/CMI/Semester 4/Applied Machine Learning/Assignment_2/mlruns/712774972690327265/b8e832fdb09d4dd0a7fa704c263f4851/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/naren/OneDrive/Documents/CMI/Semester 4/Applied
+  Machine Learning/Assignment_2/mlruns/712774972690327265/b8e832fdb09d4dd0a7fa704c263f4851/artifacts/model
+user_id: null
+version: 2
