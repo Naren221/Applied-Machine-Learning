@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/naren/OneDrive/Documents/CMI/Semester 4/Applied Machine
+  Learning/Assignment_2/mlruns/712774972690327265/642d62462aaf4a58864dbc1a8f837229/artifacts
+end_time: 1740674746070
+entry_point_name: ''
+experiment_id: '712774972690327265'
+lifecycle_stage: active
+run_id: 642d62462aaf4a58864dbc1a8f837229
+run_name: Naive Bayes
+run_uuid: 642d62462aaf4a58864dbc1a8f837229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740674732076
+status: 3
+tags: []
+user_id: naren

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/naren/OneDrive/Documents/CMI/Semester 4/Applied Machine
+  Learning/Assignment_2/mlruns/712774972690327265/b8e832fdb09d4dd0a7fa704c263f4851/artifacts
+end_time: 1740669240684
+entry_point_name: ''
+experiment_id: '712774972690327265'
+lifecycle_stage: active
+run_id: b8e832fdb09d4dd0a7fa704c263f4851
+run_name: Logistic Regression
+run_uuid: b8e832fdb09d4dd0a7fa704c263f4851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740669235808
+status: 3
+tags: []
+user_id: naren
